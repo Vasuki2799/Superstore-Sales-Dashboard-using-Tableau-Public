@@ -66,13 +66,9 @@ To create an insightful Tableau Dashboard that visualizes:
 
 ---
 
-
-## ✌️ License
-
-This project is for educational purposes. Feel free to reuse the structure or dashboard concept.
-
----
-
 ## ## ✍️ Author
 **VASUKI A**
+
 **Mail: vasukiarul27@gmail.com**
+
+**Linkedin : 
