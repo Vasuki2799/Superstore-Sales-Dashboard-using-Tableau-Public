@@ -43,7 +43,8 @@ To create an insightful Tableau Dashboard that visualizes:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](link-to-your-dashboard-screenshot-if-any)
+![Dashboard Preview]![superstore](https://github.com/user-attachments/assets/e21e1200-c9e8-468b-9fb9-02a50234b625)
+
 
 ---
 
@@ -65,11 +66,6 @@ To create an insightful Tableau Dashboard that visualizes:
 
 ---
 
-## 📌 Tableau Public Link
-
-👉 [View Dashboard on Tableau Public](your-dashboard-link-here)
-
----
 
 ## ✌️ License
 
@@ -79,4 +75,4 @@ This project is for educational purposes. Feel free to reuse the structure or da
 
 ## ## ✍️ Author
 **VASUKI A**
-
+**Mail: vasukiarul27@gmail.com**
